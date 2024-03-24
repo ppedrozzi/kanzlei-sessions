@@ -5,6 +5,7 @@ body {
   font-size: 150%;
   background-color: #000924;
   color: white;
+  margin: 20px;
 }
 
 body:before {
@@ -42,4 +43,28 @@ a:visited {
 }
 a:hover {
   color: #ffffff;
+}
+
+h1 {
+  font-size: 56px;
+}
+hr {
+  border-top: 1px solid #00AEEF;
+  margin: 10px 0 50px 0;
+}
+data {
+  display: block;
+  width: 100%;
+  color: #00AEEF;
+  margin-bottom: 40px;
+}
+p {
+  margin: 0 0 40px 0;
+}
+ul {
+  margin: 50px 0;
+  padding: 0;
+}
+li {
+  list-style: none;
 }
